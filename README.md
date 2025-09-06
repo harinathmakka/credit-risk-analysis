@@ -28,7 +28,7 @@ Credit_Risk_Analysis_Project/
 ---
 
 ## Dashboard Preview
-The interactive dashboards were built in **Power BI Service** and exported as PDF.  
+The interactive dashboards were built in Power BI Service and exported as PDF.  
 You can view the complete report here:
 
 👉 [Loan Approval Dashboard (PDF)](PowerBI/credit_risk_analysis_HM.pdf)
