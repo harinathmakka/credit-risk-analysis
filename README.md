@@ -1,2 +1,2 @@
 # credit-risk-analysis
-SQL + Power BI based Credit Risk Analysis for Loan Applicants
+Data Analysis project on loan approval risk using SQL and Power BI.
